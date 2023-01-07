@@ -15,7 +15,6 @@ When you run the project on your own computer, you can update the public key fie
 The following libraries should be installed in the experiments to be made in local.
 
 yarn install
-
 npm install @solana/web3.js
 npm install @metaplex-foundation/js
 npm install @solana/wallet-adapter-base
@@ -53,7 +52,6 @@ Kendi bilgisiyarınızda projeyi çalıştırdığınızda CrowdFundingSolana/pu
 Local'de yapılacak denemelerde aşağıdaki kütüphaneler yüklenmeli.
 
 yarn install
-
 npm install @solana/web3.js
 npm install @metaplex-foundation/js
 npm install @solana/wallet-adapter-base
