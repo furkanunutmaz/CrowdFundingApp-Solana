@@ -1,34 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[EN]
 
-## Getting Started
+NFT AWARDED CROWD FUNDING PROJECT
 
-First, run the development server:
+This project is a crowdfunding project running on the Solana development network. It offers a platform with NFT privilege, where projects in need of support can find funds very quickly in line with the opportunities offered by the solana chain.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+The project looks like the following in its simplest form. Developed on Javascript-React technology.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://user-images.githubusercontent.com/35935681/211169969-3420af19-5b2e-4a15-870d-166e50d366c3.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+At this stage, financial support can only be given to projects that are in search of support.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+When you run the project on your own computer, you can update the public key fields in the CrowdFundingSolana/public/project.json file. In the following stages, the keys here will be hidden for security.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The following libraries should be installed in the experiments to be made in local.
 
-## Learn More
+yarn install
 
-To learn more about Next.js, take a look at the following resources:
+npm install @solana/web3.js
+npm install @metaplex-foundation/js
+npm install @solana/wallet-adapter-base
+npm install @solana/wallet-adapter-react-ui
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+TARGETS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Opportunity to earn NFT specific to the supported project
+2. If the invested project is a Startup, owning the NFT of the relevant startup and catching a privileged customer opportunity in the future
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[TR]
+
+
+NFT ÖDÜLLÜ KİTLESEL FONLAMA PROJESİ
+
+
+Bu proje Solana development ağı üzerinde çalışan kitlesel fonlama projesidir. Desteğe ihtiyacı olan projelerin solana zincirinin sunduğu fırsatlar doğrultusunda çok hızlı bir şekilde fon bulabileceği ve NFT ayrıcalığına sahip bir platform sunmaktadır.
+
+Proje en basit şekliyle aşağıdaki şekilde görünmektedir. Javascript-React teknolojisi üzerinde geliştirme yapılmıştır.
+
+*Projeyi çalıştırdığınızda cüzdanınızı bağlamalısınız.
+*Yatırım yapmak ve destek vermek istediğiniz proje için kaç birim destek olacağınızı girmelisiniz.
+*Son aşamada donate butonu aracılığıyla projeye destek olabilirsiniz.
+
+![image](https://user-images.githubusercontent.com/35935681/211169969-3420af19-5b2e-4a15-870d-166e50d366c3.png)
+
+Bu aşamada sadece destek arayışında olan projelere maddi olarak destek verilebiliyor.
+
+Kendi bilgisiyarınızda projeyi çalıştırdığınızda CrowdFundingSolana/public/project.json dosyasındaki public key alanlarını güncelleyebilirsiniz. İlerleyen aşamalarda buradaki keyler güvenlik için gizlenecektir.
+
+Local'de yapılacak denemelerde aşağıdaki kütüphaneler yüklenmeli.
+
+yarn install
+
+npm install @solana/web3.js
+npm install @metaplex-foundation/js
+npm install @solana/wallet-adapter-base
+npm install @solana/wallet-adapter-react-ui
+
+
+HEDEFLER
+
+1. Destek yapılan proje özelinde NFT kazanma fırsatı
+2. Yatırım yapılan proje eğer Startup ise ilgili startupın NFT'sine sahip olmak ve ileri de ayrıcalıklı müşteri fırsatı yakalamak
+
+
+
+
+
+
+
+
+
