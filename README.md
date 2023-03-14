@@ -25,6 +25,7 @@ TARGETS
 1. Opportunity to earn NFT specific to the supported project
 2. If the invested project is a Startup, owning the NFT of the relevant startup and catching a privileged customer opportunity in the future
 3. A partnership can be established with an agreement between the person who published the project and the donor. This can be done through a smart contract.
+4. Donations will be kept in a pool. It will be distributed to projects by voting.
 
 
 
@@ -64,6 +65,7 @@ HEDEFLER
 1. Destek yapılan proje özelinde NFT kazanma fırsatı
 2. Yatırım yapılan proje eğer Startup ise ilgili startupın NFT'sine sahip olmak ve ileri de ayrıcalıklı müşteri fırsatı yakalamak
 3. Projeyi yayınlayan kişi ve bağış yapan kişi arasında gerçekleşecek bir anlaşma ile ortaklık kurulabilecektir. Akıllı kontrat aracılığı ile bu işlem yapılabilecektir.
+4. Yapılan bağışlar bir havuzda tutulacak. Oylama ile projelere dağıtılacak.
 
 
 
